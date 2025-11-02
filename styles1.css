@@ -1,0 +1,12 @@
+.box{
+    height: 150px;
+    width: 150px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: aqua;
+}
+
+.paragraph{
+    color: red;
+}
